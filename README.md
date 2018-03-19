@@ -25,7 +25,7 @@ When the hacked xinput*.dll file is loaded you will hear a beep sound.
 The hack will only works for xinput controller #1 (this is hardcoded),  
 which obviously must be a [guitar | guitar_alt | guitar_bass] xinput subtype.
 
-# How to temporary disable
+# How to temporarily disable
 To ensure normal menu navigating, the hack will stop sending strum when you push the whammy bar (50% or more).
 
 # How to uninstall
