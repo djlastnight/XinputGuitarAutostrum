@@ -12,8 +12,8 @@ The default dll file name is xinput1_3.dll
 If it does not work for your game, you can use one of the following names:
 * xinput1_1.dll
 * xinput1_2.dll
-* xinput9_1_0.dll
-That depends on the game.
+* xinput9_1_0.dll  
+The correct name for your case depends on the game.
 
 # How to use
 To enable the guitar autostrum hack,
