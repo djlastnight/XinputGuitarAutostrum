@@ -29,10 +29,11 @@ which obviously must be a [guitar | guitar_alt | guitar_bass] xinput subtype.
 To ensure normal menu navigating, the hack will stop sending strum when you push the whammy bar (50% or more).
 
 # How to uninstall
-To play the game normally, just delete the xinput1_3.dll from its folder.
+To play the game normally, just delete the modified xinput*.dll from its folder.    
+On next start, the game will load the original xinput file from Window's system directory as usual.
 
 # Download
-You can download the xinput1_3.dll directly from the Build folder or from this link  
+You can download the complied xinput1_3.dll directly from the Build folder  
 https://github.com/djlastnight/XinputGuitarAutostrum/tree/master/Build  
 
 djlastnight,  
