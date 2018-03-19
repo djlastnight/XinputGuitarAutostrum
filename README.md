@@ -1,8 +1,14 @@
 # Xinput Guitar Autostrum
 Modified xinput*.dll, intended to send guitar strum along with the guitar fret button
 
+Default xinput name used: xinput1_3.dll
+You can use the following names (if xinput1_3.dll does not work for the game)
+xinput1_2.dll
+xinput1_1.dll
+xinput9_1_0.dll
+
 # Requirements
-Installed vcredist 2013 x86
+Installed vcredist 2013 x86, directx 9.0c or newer
 
 # How to use
 To enable the guitar autostrum hack,
